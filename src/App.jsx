@@ -49,9 +49,9 @@ const options = {
 
 export default function App() {
   return (
-    <div className="contenedor-grafico flex-wrap justify-center items-center text-center h-screen m-5">
+    <div className="contenedor-grafico flex-wrap justify-center items-center text-center h-screen m-5 font-display">
       <div className="header-grafico justify-center items-center text-center mt-10">
-        <h1 className="text-4xl">REACT + GOOGLE CHARTS</h1>
+        <h1 className="text-4xl font-display font-bold">REACT + GOOGLE CHARTS</h1>
         <h2 className="text-xl">@bioodev ✨</h2>
         <span className="text-sm">MARKET TRADE VOLUME EXAMPLE DATA</span>
       </div>
